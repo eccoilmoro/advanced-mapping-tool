@@ -143,7 +143,7 @@ var mapConfig = {
         title: 'Legenda',
 
         // Description at the bottom, overridable by dataset configuration
-        description: 'Numero totale di fallimenti',
+        description: 'Numero totale di beni confiscati',
         delimiter: '-',
 
         // Label appended to legend items
@@ -225,8 +225,8 @@ var mapConfig = {
             // Inherits attributes from dataSource named here
             source: 'file',
             path: 'data/',
-            filename: 'numeroFallimenti2010-2014PerRegione.csv',
-            format: 'csv',
+            filename: 'e2f0c989-929f-4e4d-87e2-097140f8880f.json',
+            format: 'json',
 
             // Transformation of the ajax results before their using
             transform: function(res) {
@@ -257,12 +257,24 @@ var mapConfig = {
                 layer: 'regioni',
 
                 // Key of id values used for join
-                id: 'COD_REG',
+                id: 'IdRegioneISTAT',
 
                 // Choroplethable columns with custom lable, description and bins number
                 menu: [
                     {
-                        column: 'Totale_fallimenti'
+                        column: 'Totale beni'
+                        //label: '',
+                        //description: '',
+                        //bins: 3
+                    },
+                    {
+                        column: 'Totale immobili'
+                        //label: '',
+                        //description: '',
+                        //bins: 3
+                    },
+                    {
+                        column: 'Totale aziende'
                         //label: '',
                         //description: '',
                         //bins: 3
@@ -283,8 +295,8 @@ var mapConfig = {
         {
             source: 'file',
             path: 'data/',
-            filename: 'numeroFallimenti2010-2014PerProvincia.csv',
-            format: 'csv',
+            filename: 'c18fa1ca-971f-4cfa-92e9-869785260dec.json',
+            format: 'json',
 
             transform: function(res) {
                 return res;
@@ -298,10 +310,22 @@ var mapConfig = {
                 name: 'province',
                 label: '',
                 layer: 'province',
-                id: 'COD_PRO',
+                id: 'IdProvinciaISTAT',
                 menu: [
                     {
-                        column: 'Totale_fallimenti'
+                        column: 'Totale beni'
+                        //label: '',
+                        //description: '',
+                        //bins: 3
+                    },
+                    {
+                        column: 'Totale immobili'
+                        //label: '',
+                        //description: '',
+                        //bins: 3
+                    },
+                    {
+                        column: 'Totale aziende'
                         //label: '',
                         //description: '',
                         //bins: 3
@@ -322,8 +346,8 @@ var mapConfig = {
         {
             source: 'file',
             path: 'data/',
-            filename: 'numeroFallimenti2010-2014PerComune.csv',
-            format: 'csv',
+            filename: '69b2565e-0332-422f-ad57-b11491e33b08.json',
+            format: 'json',
 
             transform: function(res) {
                 return res;
@@ -337,26 +361,26 @@ var mapConfig = {
                 name: 'comuni',
                 label: '',
                 layer: 'comuni',
-                id: 'pro_com_2011',
+                id: 'IdComuneISTAT',
                 menu: [
                     {
-                        column: 'Totale_fallimenti'
+                        column: 'Totale beni'
+                        //label: '',
+                        //description: '',
+                        //bins: 3
+                    },
+                    {
+                        column: 'Totale immobili'
+                        //label: '',
+                        //description: '',
+                        //bins: 3
+                    },
+                    {
+                        column: 'Totale aziende'
                         //label: '',
                         //description: '',
                         //bins: 3
                     }
-                    //{
-                    //    column: 'Totale immobili'
-                        //label: '',
-                        //description: '',
-                        //bins: 3
-                    //},
-                    //{
-                    //    column: 'Totale aziende'
-                        //label: '',
-                        //description: '',
-                        //bins: 3
-                    //}
                     //...
                 ]
 
@@ -462,10 +486,10 @@ var mapConfig = {
                 active: true,
 
                 // Mention after sharing
-                via: 'opendatabassaromagna',
+                via: 'confiscatibene',
 
                 // Text appended to tweet content, hashtags here (+ region name)
-                text: 'Numero fallimenti'
+                text: 'Immobili e aziende #confiscatibene'
             },
 
             // Facebook share icon
@@ -496,10 +520,10 @@ var mapConfig = {
                 active: true,
 
                 // Text prepended to subject (+ region name)
-                subject: 'Numero fallimenti',
+                subject: 'Confiscati Bene',
 
                 // Text prepended to body (+ region name and URL)
-                body: ''
+                body: 'Gli immobili e le aziende #confiscatibene'
             },
             permalink: {
 
