@@ -331,7 +331,7 @@ var mapConfig = {
            
             type: 'choropleth',
             bins: 7,
-            palette: 'Greens',
+            palette: 'Yellows',
             
             schema: {
                 name: 'comuni',
@@ -553,13 +553,13 @@ var mapConfig = {
             title: '',
 
             // Image
-            image: 'img/logocb.png',
+            image: 'img/logoodbr.png',
 
             // Border
             border: false,
 
             // Link
-            link: 'http://www.confiscatibene.it/'
+            link: 'http://opendatabassaromagna.blogspot.com'
         },
 
         // Reset the map at the initial status
@@ -579,7 +579,7 @@ var mapConfig = {
         embed: {
 
             // Enable or not
-            active: false,
+            active: true,
 
             // Title on mouseover
             title: 'Embed this map',
@@ -621,7 +621,7 @@ var mapConfig = {
         screenshot: {
 
             // Enable or not
-            active: false,
+            active: true,
 
             // Title on mouseover
             title: 'Take a screenshot',
