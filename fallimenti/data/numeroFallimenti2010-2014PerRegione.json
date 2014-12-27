@@ -46,11 +46,11 @@
         "COD_REG": "1",
         "Regione": "Piemonte",
         "Fallimenti 2010": "188",
-        "Fallimenti 2011": "246",
-        "Fallimenti 2012": "326",
-        "Fallimenti 2013": "506",
-        "Fallimenti 2014": "678",
-        "Totale fallimenti": "1944"
+        "Fallimenti 2011": "245",
+        "Fallimenti 2012": "325",
+        "Fallimenti 2013": "505",
+        "Fallimenti 2014": "631",
+        "Totale fallimenti": "1894"
       },
       {
         "COD_REG": "2",
@@ -59,18 +59,18 @@
         "Fallimenti 2011": "4",
         "Fallimenti 2012": "13",
         "Fallimenti 2013": "12",
-        "Fallimenti 2014": "19",
-        "Totale fallimenti": "56"
+        "Fallimenti 2014": "16",
+        "Totale fallimenti": "53"
       },
       {
         "COD_REG": "3",
         "Regione": "Lombardia",
-        "Fallimenti 2010": "1609",
-        "Fallimenti 2011": "1493",
-        "Fallimenti 2012": "2180",
-        "Fallimenti 2013": "2993",
-        "Fallimenti 2014": "3139",
-        "Totale fallimenti": "111414"
+        "Fallimenti 2010": "1596",
+        "Fallimenti 2011": "1474",
+        "Fallimenti 2012": "2165",
+        "Fallimenti 2013": "2984",
+        "Fallimenti 2014": "2903",
+        "Totale fallimenti": "11122"
       },
       {
         "COD_REG": "4",
@@ -78,19 +78,19 @@
         "Fallimenti 2010": "69",
         "Fallimenti 2011": "84",
         "Fallimenti 2012": "139",
-        "Fallimenti 2013": "200",
-        "Fallimenti 2014": "226",
-        "Totale fallimenti": "718"
+        "Fallimenti 2013": "199",
+        "Fallimenti 2014": "214",
+        "Totale fallimenti": "705"
       },
       {
         "COD_REG": "5",
         "Regione": "Veneto",
-        "Fallimenti 2010": "1029",
+        "Fallimenti 2010": "1026",
         "Fallimenti 2011": "694",
         "Fallimenti 2012": "928",
-        "Fallimenti 2013": "1266",
-        "Fallimenti 2014": "1330",
-        "Totale fallimenti": "5247"
+        "Fallimenti 2013": "1264",
+        "Fallimenti 2014": "1228",
+        "Totale fallimenti": "5140"
       },
       {
         "COD_REG": "6",
@@ -99,8 +99,8 @@
         "Fallimenti 2011": "162",
         "Fallimenti 2012": "251",
         "Fallimenti 2013": "321",
-        "Fallimenti 2014": "287",
-        "Totale fallimenti": "1237"
+        "Fallimenti 2014": "260",
+        "Totale fallimenti": "1210"
       },
       {
         "COD_REG": "7",
@@ -108,29 +108,29 @@
         "Fallimenti 2010": "170",
         "Fallimenti 2011": "184",
         "Fallimenti 2012": "272",
-        "Fallimenti 2013": "311",
-        "Fallimenti 2014": "376",
-        "Totale fallimenti": "1313"
+        "Fallimenti 2013": "310",
+        "Fallimenti 2014": "351",
+        "Totale fallimenti": "1287"
       },
       {
         "COD_REG": "8",
         "Regione": "Emilia Romagna",
-        "Fallimenti 2010": "568",
-        "Fallimenti 2011": "441",
-        "Fallimenti 2012": "660",
-        "Fallimenti 2013": "1064",
-        "Fallimenti 2014": "1052",
-        "Totale fallimenti": "3785"
+        "Fallimenti 2010": "562",
+        "Fallimenti 2011": "438",
+        "Fallimenti 2012": "657",
+        "Fallimenti 2013": "1059",
+        "Fallimenti 2014": "976",
+        "Totale fallimenti": "3692"
       },
       {
         "COD_REG": "9",
         "Regione": "Toscana",
-        "Fallimenti 2010": "226",
-        "Fallimenti 2011": "299",
-        "Fallimenti 2012": "371",
-        "Fallimenti 2013": "534",
-        "Fallimenti 2014": "588",
-        "Totale fallimenti": "2018"
+        "Fallimenti 2010": "225",
+        "Fallimenti 2011": "298",
+        "Fallimenti 2012": "368",
+        "Fallimenti 2013": "532",
+        "Fallimenti 2014": "540",
+        "Totale fallimenti": "1963"
       },
       {
         "COD_REG": "10",
@@ -139,38 +139,39 @@
         "Fallimenti 2011": "92",
         "Fallimenti 2012": "178",
         "Fallimenti 2013": "179",
-        "Fallimenti 2014": "224",
-        "Totale fallimenti": "796"
+        "Fallimenti 2014": "202",
+        "Totale fallimenti": "774"
       },
       {
         "COD_REG": "11",
         "Regione": "Marche",
-        "Fallimenti 2010": "324",
-        "Fallimenti 2011": "242",
+        "Fallimenti 2010": "322",
+        "Fallimenti 2011": "239",
         "Fallimenti 2012": "368",
         "Fallimenti 2013": "498",
-        "Fallimenti 2014": "582",
-        "Totale fallimenti": "2014"
+        "Fallimenti 2014": "356",
+        "Totale fallimenti": "1963"
       },
       {
         "COD_REG": "12",
         "Regione": "Lazio",
-        "Fallimenti 2010": "244",
-        "Fallimenti 2011": "324",
-        "Fallimenti 2012": "565",
-        "Fallimenti 2013": "1020",
-        "Fallimenti 2014": "1205",
-        "Totale fallimenti": "3358"
+        "Fallimenti 2010": "242",
+        "Fallimenti 2011": "322",
+        "Fallimenti 2012": "564",
+        "Fallimenti 2013": "1018",
+        "Fallimenti 2014": "1105",
+        "Totale fallimenti": "3251"
       },
       {
         "COD_REG": "13",
         "Regione": "Abruzzo",
         "Fallimenti 2010": "105",
         "Fallimenti 2011": "71",
-        "Fallimenti 2012": "107",
-        "Fallimenti 2013": "124",
-        "Fallimenti 2014": "169",
-        "Totale fallimenti": "576"
+        "Fallimenti 2012": "105",
+        "Fallimenti 2013": "123",
+        "Fallimenti 2014": "151",
+        "Totale fallimenti": "555"
+      },
       {
         "COD_REG": "14",
         "Regione": "Molise",
@@ -185,11 +186,11 @@
         "COD_REG": "15",
         "Regione": "Campania",
         "Fallimenti 2010": "196",
-        "Fallimenti 2011": "190",
-        "Fallimenti 2012": "283",
-        "Fallimenti 2013": "440",
-        "Fallimenti 2014": "591",
-        "Totale fallimenti": "1700"
+        "Fallimenti 2011": "189",
+        "Fallimenti 2012": "281",
+        "Fallimenti 2013": "439",
+        "Fallimenti 2014": "549",
+        "Totale fallimenti": "1654"
       },
       {
         "COD_REG": "16",
@@ -198,8 +199,8 @@
         "Fallimenti 2011": "182",
         "Fallimenti 2012": "180",
         "Fallimenti 2013": "267",
-        "Fallimenti 2014": "298",
-        "Totale fallimenti": "1074"
+        "Fallimenti 2014": "282",
+        "Totale fallimenti": "1058"
       },
       {
         "COD_REG": "17",
@@ -208,8 +209,8 @@
         "Fallimenti 2011": "5",
         "Fallimenti 2012": "6",
         "Fallimenti 2013": "10",
-        "Fallimenti 2014": "16",
-        "Totale fallimenti": "42"
+        "Fallimenti 2014": "13",
+        "Totale fallimenti": "39"
       },
       {
         "COD_REG": "18",
@@ -217,9 +218,9 @@
         "Fallimenti 2010": "106",
         "Fallimenti 2011": "130",
         "Fallimenti 2012": "198",
-        "Fallimenti 2013": "257",
-        "Fallimenti 2014": "245",
-        "Totale fallimenti": "936"
+        "Fallimenti 2013": "255",
+        "Fallimenti 2014": "229",
+        "Totale fallimenti": "918"
       },
       {
         "COD_REG": "19",
@@ -228,17 +229,17 @@
         "Fallimenti 2011": "140",
         "Fallimenti 2012": "172",
         "Fallimenti 2013": "242",
-        "Fallimenti 2014": "267",
-        "Totale fallimenti": "965"
+        "Fallimenti 2014": "238",
+        "Totale fallimenti": "936"
       },
       {
         "COD_REG": "20",
         "Regione": "Sardegna",
         "Fallimenti 2010": "145",
-        "Fallimenti 2011": "94",
-        "Fallimenti 2012": "178",
-        "Fallimenti 2013": "207",
-        "Fallimenti 2014": "269",
+        "Fallimenti 2011": "93",
+        "Fallimenti 2012": "177",
+        "Fallimenti 2013": "201",
+        "Fallimenti 2014": "248",
         "Totale fallimenti": "864"
       }
     ]
