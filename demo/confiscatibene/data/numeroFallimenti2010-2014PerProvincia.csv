@@ -45,27 +45,27 @@ COD_PRO;SIGLA_PROV;COD_REG;REGIONE;Fallimenti 2010;Fallimenti 2011;Fallimenti 20
 44;AP;11;Marche  ;52;37;71;78;96;334
 45;MS;9;Toscana ;1;3;2;3;6;15
 46;LU;9;Toscana ;75;113;135;166;173;662
-47;PT;9;Toscana ;4;7;5;;4;20
+47;PT;9;Toscana ;4;7;5;0;4;20
 48;FI;9;Toscana ;14;16;26;30;31;117
 49;LI;9;Toscana ;8;8;17;29;35;97
-50;PI;9;Toscana ;1;;4;4;8;17
+50;PI;9;Toscana ;1;0;4;4;8;17
 51;AR;9;Toscana ;45;40;72;125;113;395
 52;SI;9;Toscana ;5;12;18;24;35;94
-53;GR;9;Toscana ;;1;;1;2;4
+53;GR;9;Toscana ;0;1;0;1;2;4
 54;PG;10;Umbria  ;106;85;159;170;170;690
 55;TR;10;Umbria  ;17;7;19;9;32;84
 56;VT;12;Lazio   ;11;4;12;33;21;81
-57;RI;12;Lazio   ;;1;1;4;1;7
+57;RI;12;Lazio   ;0;1;1;4;1;7
 58;RM;12;Lazio   ;229;315;542;975;1077;3138
-59;LT;12;Lazio   ;2;;6;6;2;16
-60;FR;12;Lazio   ;;2;3;;4;9
+59;LT;12;Lazio   ;2;0;6;6;2;16
+60;FR;12;Lazio   ;0;2;3;0;4;9
 61;CE;15;Campania;81;76;115;132;119;523
 62;BN;15;Campania;2;5;7;9;38;61
 63;NA;15;Campania;21;29;37;119;187;393
 64;AV;15;Campania;3;3;2;5;16;29
 65;SA;15;Campania;89;76;120;174;189;648
 66;AQ;13;Abruzzo ;4;4;2;3;1;14
-67;TE;13;Abruzzo ;9;;5;7;7;28
+67;TE;13;Abruzzo ;9;0;5;7;7;28
 68;PE;13;Abruzzo ;65;40;77;68;103;353
 69;CH;13;Abruzzo ;27;27;21;45;40;160
 70;CB;14;Molise  ;5;13;10;15;16;59
@@ -79,20 +79,20 @@ COD_PRO;SIGLA_PROV;COD_REG;REGIONE;Fallimenti 2010;Fallimenti 2011;Fallimenti 20
 78;CS;18;Calabria;12;15;36;42;42;147
 79;CZ;18;Calabria;2;2;4;13;3;24
 80;RC;18;Calabria;74;63;84;115;119;455
-81;TP;19;Sicilia ;3;;1;;2;6
+81;TP;19;Sicilia ;3;0;1;0;2;6
 82;PA;19;Sicilia ;133;114;148;210;209;814
 83;ME;19;Sicilia ;5;17;11;26;14;73
-84;AG;19;Sicilia ;;3;;;3;6
-85;CL;19;Sicilia ;;1;3;;;4
-86;EN;19;Sicilia ;1;;1;;;2
-87;CT;19;Sicilia ;;4;3;1;1;9
-88;RG;19;Sicilia ;;;1;;1;2
+84;AG;19;Sicilia ;0;3;0;0;3;6
+85;CL;19;Sicilia ;0;1;3;0;0;4
+86;EN;19;Sicilia ;1;0;1;0;0;2
+87;CT;19;Sicilia ;0;4;3;1;1;9
+88;RG;19;Sicilia ;0;0;1;0;1;2
 89;SR;19;Sicilia ;2;1;4;5;8;20
 90;SS;20;Sardegna;3;11;10;18;28;70
 91;NU;20;Sardegna;17;15;20;27;32;111
 92;CA;20;Sardegna;93;43;102;100;121;459
 93;PN;6;Friuli Venezia Giulia;102;51;94;116;109;472
-94;IS;14;Molise  ;;;;1;3;4
+94;IS;14;Molise  ;0;0;0;1;3;4
 95;OR;20;Sardegna;9;8;12;16;20;65
 96;BI;1;Piemonte;4;8;10;9;6;37
 97;LC;3;Lombardia;80;64;72;121;99;436
