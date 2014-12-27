@@ -225,8 +225,8 @@ var mapConfig = {
             // Inherits attributes from dataSource named here
             source: 'file',
             path: 'data/',
-            filename: 'numeroFallimenti2010-2014PerRegione.csv',
-            format: 'csv',
+            filename: 'numeroFallimenti2010-2014PerRegione.json',
+            format: 'json',
 
             // Transformation of the ajax results before their using
             transform: function(res) {
@@ -283,8 +283,8 @@ var mapConfig = {
         {
             source: 'file',
             path: 'data/',
-            filename: 'numeroFallimenti2010-2014PerProvincia.csv',
-            format: 'csv',
+            filename: 'numeroFallimenti2010-2014PerProvincia.json',
+            format: 'json',
 
             transform: function(res) {
                 return res;
@@ -322,8 +322,8 @@ var mapConfig = {
         {
             source: 'file',
             path: 'data/',
-            filename: 'numeroFallimenti2010-2014PerComune.csv',
-            format: 'csv',
+            filename: 'numeroFallimenti2010-2014PerComune.json',
+            format: 'json',
 
             transform: function(res) {
                 return res;
