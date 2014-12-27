@@ -547,7 +547,7 @@ var mapConfig = {
         logo: {
 
             // Enable or not
-            active: true,
+            active: false,
 
             // Title on mouseover
             title: '',
