@@ -292,7 +292,7 @@ var mapConfig = {
            
             type: 'choropleth',
             bins: 7,
-            palette: 'Blues',
+            palette: 'Reds',
             
             schema: {
                 name: 'province',
@@ -331,7 +331,7 @@ var mapConfig = {
            
             type: 'choropleth',
             bins: 7,
-            palette: 'Greens',
+            palette: 'Reds',
             
             schema: {
                 name: 'comuni',
@@ -547,7 +547,7 @@ var mapConfig = {
         logo: {
 
             // Enable or not
-            active: false,
+            active: true,
 
             // Title on mouseover
             title: '',
@@ -660,7 +660,7 @@ var mapConfig = {
 
                 // Specific options from Twitter Dev
                 // See https://dev.twitter.com/web/tweet-button
-                via: 'opendatabassaromagna',
+                via: 'ODBassaRomagna',
                 lang: 'it',
                 related: 'eccoilmoro',
                 hashtags: 'fallimenti',
