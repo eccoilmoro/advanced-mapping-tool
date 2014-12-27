@@ -331,7 +331,7 @@ var mapConfig = {
            
             type: 'choropleth',
             bins: 7,
-            palette: 'Yellows',
+            palette: 'Greens',
             
             schema: {
                 name: 'comuni',
