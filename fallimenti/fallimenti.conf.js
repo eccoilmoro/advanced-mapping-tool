@@ -264,7 +264,7 @@ var mapConfig = {
                 menu: [
                     {
                         column: 'Totale fallimenti'
-                        //label: '',
+                        label: 'Totale fallimenti 2010-2014',
                         //description: '',
                         //bins: 3
                     }
@@ -303,7 +303,7 @@ var mapConfig = {
                 menu: [
                     {
                         column: 'Totale fallimenti'
-                        //label: '',
+                        label: 'Totale fallimenti 2010-2014',
                         //description: '',
                         //bins: 3
                     }
@@ -342,7 +342,7 @@ var mapConfig = {
                 menu: [
                     {
                         column: 'Totale fallimenti'
-                        //label: '',
+                        label: 'Totale fallimenti 2010-2014',
                         //description: '',
                         //bins: 3
                     }
