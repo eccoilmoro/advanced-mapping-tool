@@ -330,7 +330,7 @@ var mapConfig = {
             },
            
             type: 'choropleth',
-            bins: 7,
+            bins: 8,
             palette: 'Reds',
             
             schema: {
