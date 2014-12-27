@@ -100,7 +100,7 @@ var mapConfig = {
          * Set a string item per service
          */
         attribution: [
-            'Elaborazione <a href="http://opendatabassaromagna.blogspot.com" target="_blank">OpenDataBassaRomagna</a>'
+            'Elaborazione <a href="http://opendatabassaromagna.blogspot.com" target="_blank">OpenDataBassaRomagna</a>',
             'Powered by <a href="http://www.dataninja.it/" target="_blank">Dataninja</a>',
             'tileset from <a href="http://mapnik.org/" target="_blank">OSM Mapnik</a>',
             'icons from <a href="http://www.flaticon.com/" target="_blank">Freepik</a> and <a href="http://www.simplesharebuttons.com/" target="_blank">Simple Share Buttons</a>',
