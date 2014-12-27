@@ -262,7 +262,7 @@ var mapConfig = {
                 // Choroplethable columns with custom lable, description and bins number
                 menu: [
                     {
-                        column: 'Totale_fallimenti'
+                        column: 'Totale fallimenti'
                         //label: '',
                         //description: '',
                         //bins: 3
@@ -301,7 +301,7 @@ var mapConfig = {
                 id: 'COD_PRO',
                 menu: [
                     {
-                        column: 'Totale_fallimenti'
+                        column: 'Totale fallimenti'
                         //label: '',
                         //description: '',
                         //bins: 3
@@ -340,7 +340,7 @@ var mapConfig = {
                 id: 'pro_com_2011',
                 menu: [
                     {
-                        column: 'Totale_fallimenti'
+                        column: 'Totale fallimenti'
                         //label: '',
                         //description: '',
                         //bins: 3
