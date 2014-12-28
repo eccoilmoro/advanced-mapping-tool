@@ -6,7 +6,7 @@
 var mapConfig = {
 
     // Debug mode activation with logs in console
-    debug: true,
+    debug: false,
 
     // Language code in ISO 639-1:2002 format (see http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     language: 'it',
@@ -403,7 +403,7 @@ var mapConfig = {
         content: {
 
             // Shown in normal view modes
-            default: '<p>Questa mappa mostra il numero di fallimenti 2010-2014 per Regione ,Provincia, Comune. Non si tratta di tutti i fallimenti ma solo di quelli reperibili sul web. La corrispondenza tra il gradiente di colore e il numero complessivo di fallimenti è dato nella legenda in basso a sinistra.</p>' + 
+            default: '<p>Questa mappa mostra il numero di imprese fallite  dal 2010 al 2014 per Regione ,Provincia, Comune. Non si tratta di tutti i fallimenti ma solo di quelli reperibili sul web. La corrispondenza tra il gradiente di colore e il numero complessivo di fallimenti è dato nella legenda in basso a sinistra.</p>' + 
                 '<p>Mediante il selettore in alto a sinistra si possono caricare e visualizzare ulteriori livelli (regioni, province, comuni).</p>' +
                 '<p>Principali funzioni della mappa: <ul>' + 
                 '<li>cerca i dati relativi al tuo territorio cliccando sulla lente e inserendo il nome di un comune;</li>' + 
