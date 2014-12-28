@@ -403,7 +403,7 @@ var mapConfig = {
         content: {
 
             // Shown in normal view modes
-            default: '<p>Questa mappa mostra il numero di imprese fallite  dal 2010 al 2014 per Regione ,Provincia, Comune. Non si tratta di tutti i fallimenti ma solo di quelli reperibili sul web. La corrispondenza tra il gradiente di colore e il numero complessivo di fallimenti è dato nella legenda in basso a sinistra.</p>' + 
+            default: '<p>Questa mappa mostra il numero di imprese fallite  dal 2010 al 2014 per Regione ,Provincia, Comune. Non si tratta di tutti i fallimenti ma solo di quelli reperibili sul web e geolocalizzabili. La corrispondenza tra il gradiente di colore e il numero complessivo di fallimenti è dato nella legenda in basso a sinistra.</p>' + 
                 '<p>Mediante il selettore in alto a sinistra si possono caricare e visualizzare ulteriori livelli (regioni, province, comuni).</p>' +
                 '<p>Principali funzioni della mappa: <ul>' + 
                 '<li>cerca i dati relativi al tuo territorio cliccando sulla lente e inserendo il nome di un comune;</li>' + 
